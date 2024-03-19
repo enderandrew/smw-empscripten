@@ -1,0 +1,87 @@
+I decided I would help all newbies out there, and do a quicklist of all the level numbers, their names and type, and any sspecific notes about it. (regular, ghost house, castle, switch palace, fortress, water, vertical, underground).
+
+Level 0: Do not use. Bonus room. All pipes leading to this will break the game.
+Level 1: VANILLA SECRET 2: Normal level 
+Level 2: VANILLA SECRET 3: Normal with layer 3 water and dolphins
+Level 3: TOP SECRET AREA: Bonus level with Side exit
+Level 4: DONUT GHOST HOUSE: Ghost house, secet exit
+Level 5: DONUT PLAINS 3: Normal
+Level 6: DONUT PLAINS 4: Normal
+Level 7: #2 MORTON'S CASTLE: Castle
+Level 8: GREEN SWITCH PALACE: Switch palace
+Level 9: DONUT PLAINS 2: Underground, secret exit, scrolling
+Level A: DONUT SECRET 1: Underwater, secret exit
+Level B: VANILLA FORTRESS: Underwater fortress
+Level C: BUTTER BRIDGE 1: normal, scrolling
+Level D: BUTTER BRIDGE 2: normal
+Level E: LUDWIG'S CASTLE: castle
+Level F: CHEESE BRIDGE AREA: normal, secret
+Level 10: COOKIE MOUNTAIN: normal
+Level 11: SODA LAKE: underwater
+Level 13: DONUT SECRET HOUSE: ghost house, secret exit activated by Big Boo Boss. Only level this happens
+Level 14: YELLOW SWITCH PALACE: Switch palace
+Level 15: Donut plains 1: Normal, secret exit
+Level 17: #2 MORTON'S PLAINS: Not used? Copy of Donut Plains 1 wit glitchy BG
+Level 18: SUNKEN GHOST SHIP: Ghost house, but a ship. Underwater. 1 room vertical
+Level 19: #2 MORTON'S PLAINS: See Level 17
+Level 1A: #6 WENDY'S CASTLE: Castle
+Level 1B: CHOCOLATE FORTRESS: Fortress
+Level 1C: CHOCOLATE ISLAND 5: Normal
+Level 1D: CHOCOLATE ISLAND 4: Underground
+Level 1F: FOREST FORTRESS: Fortress, scroll and layer 3 smash
+Level 20: #5 ROY'S CASTLE: Castle
+Level 21: CHOCO-GHOST HOUSE: Ghost house
+Level 22: CHOCOLATE ISLAND 1: Normal
+Level 23: CHOCOLATE ISLAND 3: Normal, Secret exit
+Level 24: CHOCOLATE ISLAND 2: Normal, secret exit. Do not place pipes in this level! Where the pipe leads to depends on number of coins and time.
+Level 25-100: not used?
+Level 101: #1 IGGY'S CASTLE: Castle, second room has scroll
+Level 102: YOSHI'S ISLAND 4: Normal, layer 3 water
+Level 103: YOSHI'S ISLAND 3: Normal
+Level 104: YOSHI's HOUSE: Do not change, it is used during the ending.
+Level 105: YOSHI'S ISLAND 1: Normal
+Level 106: YOSHI'S ISLAND 2: Normal
+Level 107: VANILLA GHOST HOUSE: Ghost house
+Level 109: VANILLA SECRET 1: Underground, secret exit, vertical
+Level 10A: VANILLA DOME 3: Underground
+Level 10B: DONUT SECRET 2: Underground, slippery
+Level 10D: FRONT DOOR: Castle, the front door of Bowsers Castle
+Level 10E: BACK DOOR: Castle, the back door of Bowsers Castle
+Level 10F: VALLEY OF BOWSER 4: Underground, secret exit
+Level 110: #7 LARRY'S CASTLE: Castle
+Level 111: VALLEY FORTRESS: Fortress, layer 2 smash
+Level 112: Not used?
+Level 113: VALLEY OF BOWSER 3: underground
+Level 114: VALLEY GHOST HOUSE: ghost house, secret exit
+Level 115: VALLEY OF BOWSER 2: Underground, layer 2 scroll activated
+Level 116: VALLEY OF BOWSER 1: Underground
+Level 117: CHOCOLATE SECRET: underground
+Level 118: VANILLA DOME 2: underground, secret exit
+Level 119: VANILLA DOME 4: normal
+Level 11A: VANILLA DOME 1: underground, secret exit
+Level 11B: RED SWITCH PALACE: Switch palace
+Level 11C: #3 LEMMY'S CASTLE: Castle
+Level 11D: FOREST GHOST HOUSE: Ghost house, secret exit
+Level 11F: FOREST OF ILLUSION 4: normal, secret exit
+Level 120: FOREST OF ILLUSION 2: underwater, secret exit
+Level 121: BLUE SWITCH PALACE: switch palace
+Level 122: FOREST SECRET AREA: normal
+Level 123: FOREST OF ILLUSION 3: normal, secret exit
+Level 125: FUNKY: normal, has green berries to replenish time
+Level 126: OUTRAGEOUS: normal
+Level 127: MONDO: normal with Layer 3 water
+Level 128: GROOVY: normal
+Level 12A: GNARLY: normal, vertical
+Level 12B: TUBULAR: normal
+Level 12C: WAY COOL: normal
+Level 12D: AWESOME: Normal, slippery
+Level 130: STAR WORLD 2: underwater, secret exit, blue yoshi unlock level
+Level 132: STAR WORLD 3: normal, secret exit, orange yoshi unlock level
+Level 134: STAR WORLD 1: underground, vertical, secret exit
+Level 135: STAR WORLD 4: normal, secret exit
+Level 136: STAR WORLD 5: normal, secret exit
+Level 12, 16, 1E, 108, 10C, 124, 129, 12E, 12F, 131, 133, 137, 138: Star road warps
+Level 139-13B: Not used?
+
+PM me if there is any mistakes you need to point out.
+ 
