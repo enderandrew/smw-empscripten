@@ -14,7 +14,7 @@ static uint8 RtlApuReadReg(int reg);
 void SmwSavePlaythroughSnapshot();
 void SmwLoadNextPlaybackSnapshot();
 
-uint8 g_ram[0x20000];
+uint16 g_ram[0x20000];
 uint8 *g_sram;
 int g_sram_size;
 const uint8 *g_rom;
@@ -121,7 +121,7 @@ void StateRecorder_Record(StateRecorder *sr, uint32 inputs) {
   sr->total_frames++;
 }
 
-void StateRecorder_RecordPatchByte(StateRecorder *sr, const uint8 *value, int num) {
+void StateRecorder_RecordPatchByte(StateRecorder *sr, const uint16 *value, int num) {
   uint32 addr = value - g_ram;
   assert(addr < 0x20000);
 

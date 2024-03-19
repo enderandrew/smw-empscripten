@@ -1,0 +1,78 @@
+target_sources(smw PRIVATE
+	"common_cpu_infra.c"
+	"common_cpu_infra.h"
+	"common_rtl.c"
+	"common_rtl.h"
+	"config.c"
+	"config.h"
+	"consts.h"
+	"funcs.h"
+	"glsl_shader.c"
+	"glsl_shader.h"
+	"lm.c"
+	"main.c"
+	"opengl.c"
+	"smw_00.c"
+	"smw_01.c"
+	"smw_02.c"
+	"smw_03.c"
+	"smw_04.c"
+	"smw_05.c"
+	"smw_07.c"
+	"smw_0c.c"
+	"smw_0d.c"
+	"smw_cpu_infra.c"
+	"smw_rtl.c"
+	"smw_rtl.h"	
+	"smw_spc_player.c"
+	"smw_spc_player.h"
+	"spc_variables.h"
+	"tracing.c"
+	"tracing.h"
+	"types.h"
+	"util.c"
+	"util.h"
+	"variables.h"
+	#"CustomPhys.c"
+	#"CustomPhys.h"
+	#"CustomSound.c"
+	#"CustomSound.h"
+
+    "snes/apu.c"
+    "snes/apu.h"
+    "snes/cart.c"
+    "snes/cart.h"
+    "snes/cpu.c"
+    "snes/cpu.h"
+    "snes/dma.c"
+    "snes/dma.h"
+    "snes/dsp.c"
+    "snes/dsp.h"
+    "snes/dsp_regs.h"
+    "snes/ppu.c"
+    "snes/ppu.h"
+	"snes/ppu_old.c"
+    "snes/saveload.h"
+    "snes/snes.c"
+    "snes/snes.h"
+    "snes/snes_other.c"
+	"snes/snes_regs.h"
+    "snes/spc.c"
+    "snes/spc.h"
+)
+
+if (WIN32)
+    target_sources(sm PRIVATE
+        "platform/win32/resource.h"
+        "platform/win32/volume_control.c"
+        "platform/win32/volume_control.h"
+    )
+endif()
+
+if (NINTENDO_SWITCH)
+    target_include_directories(sm PRIVATE "platform/switch/src")
+    target_sources(sm PRIVATE
+        "platform/switch/src/switch_impl.c"
+        "platform/switch/src/switch_impl.h"
+    )
+endif()
