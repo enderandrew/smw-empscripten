@@ -180,15 +180,15 @@ void Smb1VectorReset() {
 // 7E00BA: using guessed type int8;
 
 void Smb1RunOneFrameOfGame_Internal() {
-  int8 v0;   // r8
-  int8 v1;   // cf
-  int8 v2;   // r8
-  int8 v3;   // r8
-  int8 v4;   // r8
-  int8 v5;   // r8
-  int8 v6;   // r8
-  int8 v7;   // r8
-  uint8 v8;  // si
+  uint8_t v0;   // r8
+  uint8_t v1;   // cf
+  uint8_t v2;   // r8
+  uint8_t v3;   // r8
+  uint8_t v4;   // r8
+  uint8_t v5;   // r8
+  uint8_t v6;   // r8
+  uint8_t v7;   // r8
+  uint8_t v8;  // si
 
   Smb1PollJoypadInputs();
   random_lfsr_tmp = random_byte1 & 2;
@@ -434,10 +434,10 @@ void Smb1VectorIRQ() {
 }
 
 void ProcessGameMode() {
-  int16 v0;  // si
+  int16_t v0;  // si
 
-  v0 = 2 * *(uint16 *)&game_mode;
-  if (2 * *(uint16 *)&game_mode) {
+  v0 = 2 * *(uint16_t *)&game_mode;
+  if (2 * *(uint16_t *)&game_mode) {
     switch (v0) {
     case 4: GameMode02_Cutscene(); break;
     case 6: GameMode03_GameOverScreen(); break;
@@ -960,7 +960,6 @@ LABEL_94:
     v5 = __CFADD__(cutscene_toad_text_timer, 4);
     cutscene_toad_text_timer += 4;
     cutscene_toad_line_to_display += v5;
-    if (v5 < 7)
       return;
     goto LABEL_95;
   }
@@ -1581,7 +1580,7 @@ void VramFunc_9B5C() {
   WriteReg(MDMAEN, 1u);
   WriteReg(OAMADDH, 0x80u);
   WriteReg(OAMADDL, 0);
-  if (pausemenu_var3 || (VramFunc_9BD4(1u), !vram_flag_028c) && vram_flag_028d) {
+  if (pausemenu_var3 || ((VramFunc_9BD4(1u), !vram_flag_028c) && vram_flag_028d)) {
     WriteRegWord(VMADDL, graphics_upload_vramaddress);
     WriteRegWord(DMAP0, 0x1801u);
     WriteRegWord(A1T0L, graphics_upload_ptr.addr);

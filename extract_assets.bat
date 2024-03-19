@@ -1,7 +1,7 @@
 @echo off
 
 2>nul (del smw_assets.dat)
-python assets/restool.py
+python assets/restool.py -f
 IF NOT ERRORLEVEL 0 goto ERROR
 
 IF NOT EXIST "smw_assets.dat" (
