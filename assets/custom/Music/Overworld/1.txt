@@ -1,0 +1,5 @@
+./assets/custom/Overworld/[MP3 FILE].mp3
+0
+0
+0
+1

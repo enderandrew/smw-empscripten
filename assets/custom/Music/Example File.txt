@@ -1,0 +1,5 @@
+Path to MP3 File.
+Start Point in ms.
+End Point in ms.
+Loop Point in ms.
+1 or 0. Whether or not song should loop.
